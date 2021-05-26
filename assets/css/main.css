@@ -1666,11 +1666,12 @@ input, select, textarea {
 	.skill-list-container {
 		display: flex;
 		flex-wrap: wrap;
+		padding-bottom: 30px;
 	}
 
 	.skill-list-container div {
-		width: 100px;
-		height: 100px;
+		width: 125px;
+		height: 125px;
 	}
 
 	.skill-icons {
