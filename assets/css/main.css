@@ -1688,3 +1688,11 @@ input, select, textarea {
 		height: 100%;
 		object-fit: scale-down;
 	}
+
+	.contact-list {
+		padding-left: 0;
+	}
+
+	.contact-list span:nth-child(2n) {
+		margin-left: 5px;
+	}
